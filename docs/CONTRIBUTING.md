@@ -87,9 +87,6 @@ Note that if you do not have mdbook already installed you may do so with `cargo 
 If you find dependency resolution problems when testing mdbook, 
 you may have to run `cargo clean` and `cargo build` again before retrying the `mdbook test` command.
 
-> If you want to be publicly known as an author, feel free to add your name
-> and/or GitHub username to the AUTHORS.md file in your pull request.
-
 Once you have submitted your pull request, please wait for a reviewer to give
 feedback on it. If no one responds, feel free to @-mention a developer or post
 publicly on the [appropriate chat room][gi] on Gitter or on Discord asking for a review. Once
